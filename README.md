@@ -28,9 +28,6 @@
 | 🧠 **Focus** | Agentic AI / RAG systems · Cross-platform mobile · Mobile QA automation |
 | 📍 **Based in** | Lahore, Pakistan |
 
-> [!TIP]
-> **Currently building [SARAS](https://github.com/Rameez8513)** — an AI-powered, AR-enabled local retail platform for Pakistan. Flutter + Firebase on the front end, Azure Cognitive Services for Urdu voice AI, and LangGraph-orchestrated agents for semantic product search.
-
 <br/>
 
 ## 🛠️ Tech Stack
