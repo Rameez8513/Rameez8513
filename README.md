@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1a1a1a,100:0A0A0A&height=220&section=header&text=RAMEEZ%20MEHMOOD&fontSize=48&fontColor=D4AF37&fontAlignY=35&animation=fadeIn&desc=Computer%20Scientist%20%C2%B7%20AI%20Agent%20Developer%20%C2%B7%20Flutter%20Developer%20%C2%B7%20SQA%20Engineer&descAlignY=55&descSize=18&descColor=C9C9C9" width="100%"/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=600&lines=Building+agentic+AI+systems+with+LangChain+%2B+LangGraph;Shipping+cross-platform+apps+in+Flutter;Automating+mobile+QA+with+Appium+%2B+Katalon;Currently+building+SARAS+%F0%9F%9B%8D%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=750&height=40&lines=Building+agentic+AI+systems+with+LangChain+and+LangGraph;Shipping+cross-platform+apps+in+Flutter;Automating+mobile+QA+with+Appium+and+Katalon" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -70,7 +70,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rameez8513&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rameez8513&theme=onedark&margin-w=8&margin-h=8&row=2&column=4"/>
 </div>
 
 <br/>
@@ -83,8 +83,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rameez8513/Rameez8513/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Rameez8513/Rameez8513/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<sub>⚙️ Requires a one-time setup — see <code>SNAKE_SETUP.md</code> in this download. Until set up, this line will show as a broken image; that's expected.</sub>
 </div>
 
 <br/>
